@@ -11,8 +11,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Some changes.
 
-Some more changes.
-
 ## Including Plots
 
 You can also embed plots, for example:
