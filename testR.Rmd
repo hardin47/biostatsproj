@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
-Some changes.
+Some changes.  MOre.
 
 ## Including Plots
 
