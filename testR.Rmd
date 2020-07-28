@@ -32,3 +32,10 @@ What I'd really like to do is change the html and pdf, not push them, and see wh
 ```{r}
 plot(cars)
 ```
+
+## And now, here are new changes
+
+```{r}
+hist(cars$speed)
+hist(cars$dist)
+```
