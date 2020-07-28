@@ -25,4 +25,12 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
+## Changes to pdf
+
+What I'd really like to do is change the pdf, not push it, and see what happens...
+
+```{r}
+plot(cars)
+```
+
 
