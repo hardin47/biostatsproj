@@ -34,5 +34,11 @@ What I'd really like to do is change the pdf, not push it, and see what happens.
 plot(cars)
 ```
 
+## And now, here are new changes
+
+```{r}
+hist(cars$speed)
+hist(cars$dist)
+```
 
 
